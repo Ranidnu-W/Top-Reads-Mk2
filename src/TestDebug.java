@@ -1,6 +1,4 @@
-import java.util.ArrayList;
-import java.util.Scanner;
-
+/*
 public class Main{
     public static void main(String[] args){
 
@@ -22,7 +20,7 @@ public class Main{
                 System.out.println("------------------------------------");
             }
 
-         */
+
 
         System.out.println("Top 10 Books by Rating");
         ArrayList<Books> topBooks = manager.get_Top10_BooksByRating();
@@ -33,3 +31,4 @@ public class Main{
 
     }
 }
+*/
